@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/86514883?v=4" alt="Yuzzu" width="300" />
 
-# YUZZU KAMIYAKA
+# Aiman
 
 >
 >
@@ -36,9 +36,27 @@
 * [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
 * [Libwebp](https://developers.google.com/speed/webp/download)
 
-  # MAKASIH LORT
-* [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`MhankBarBar`](https://github.com/MhankBarBar)
-* [`Dcode-denpa`](https://github.com/dcode-denpa)
+  .:::!~!!!!!:.
+                    .xUHWH!! !!?M88WHX:.
+                  .X*#M@&!!  !X!M&&&&&&WWx:.
+                 :!!!!!!?H! :!&!&&&&&&&&&&8X:
+                !!~  ~:~!! :~!&!#&&&&&&&&&&8X:
+               :!~::!H!<   ~.U&X!?R&&&&&&&&MM!
+               ~!~!!!!~~ .:XW&&&U!!?&&&&&&RMM!
+                 !:~~~ .:!MST#&&&&WX??#MRRMMM!
+                 ~?WuxiW*`   `√#&&&&8!!!!??!!!
+               :X- M&&&&       `rT#&T~!8&WUXU~
+              :%`  ~#&&&m:    ✪   ~!~ ?&&&&&&
+            :!`.-   ~T&&&&8xx.  .xWW- ~x&&&&&
+ .......   -~~:<` !    ~?T#&&@@W@*?&&   ✪  /`
+G |W&@@M!!! .!~~ !!     .:XUW&W!~ `&~:    :
+H |#&~~`.:x%`!!  !H:   !WM&&&&Ti.: .!WUn+!`
+O |:::~:!!`:X~ .: ?H.!u °&&&B&&&!W:U!T&&M~
+S |.~~   :X@!.-~   ?@WTWo(`*&&&W&TH&! `
+T |Wi.~!X$?!-~    / ?&&&B&Wu(`**&RM!
+ .......         /   ~&&&&&B&&en:``
+                     ~`##*&&&&M~
+
+                     =[ Coded by Aiman 123 ]=
   
   
