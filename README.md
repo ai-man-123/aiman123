@@ -1,5 +1,5 @@
 <div align="center">
-                
+ https://telegra.ph/file/ff01f71514969b72e578e.jpg
 
 # ᜰ꙰ꦿ➢™★[《♡~_*aiman✓*_~々》
 
@@ -8,8 +8,7 @@
 >
 </div>
 <p align="center">
-  <a href="https://instagram.com/dcodedenpa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6285866295942"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/60102810046"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 ## CARA INSTALL DI TERMUX
