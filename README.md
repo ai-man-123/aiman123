@@ -15,7 +15,7 @@
 ```bash
 > pkg install nodejs && pkg install git
 > git clone https://github.com/YuzzuKamiyaka/bitch-bot
-> cd man-bot
+> cd bitch-bot
 > npm install terminal-kit
 > bash install.sh
 > npm start/node index.js
@@ -23,7 +23,7 @@
 ## CARA INSTALL DI LAPTOP
 ```bash
 > git clone https://github.com/YuzzuKamiyaka/bitch-bot
-> cd man-bot
+> cd bitch-bot
 > npm install terminal-kit
 > npm i
 > npm start/node index.js
