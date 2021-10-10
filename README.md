@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/86514883?v=4" alt="Yuzzu" width="300" />
+                
 
-# Aiman
+# ᜰ꙰ꦿ➢™★[《♡~_*aiman✓*_~々》
 
 >
 >
@@ -57,6 +57,6 @@ T |Wi.~!X$?!-~    / ?&&&B&Wu(`**&RM!
  .......         /   ~&&&&&B&&en:``
                      ~`##*&&&&M~
 
-                     =[ Coded by Aiman 123 ]=
+                     https://github.com/ai-man-123/aiman123/upload
   
   
